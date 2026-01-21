@@ -1,0 +1,5 @@
+JOURNEY_PRIVATE.md
+.env
+*.log
+.DS_Store
+Thumbs.db
